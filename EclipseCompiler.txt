@@ -1,0 +1,406 @@
+29 Jun 2019 16:45:29 GMT: Log 'EclipseCompiler.txt' opened: 29 Jun 2019 16:45:29 GMT with name E:\CSE220\lab\Prioti Saha Tonny 18301211 lab 6\EclipseCompiler.txt
+15 Aug 2019 0:03:34 GMT: Log 'EclipseCompiler.txt' opened: 15 Aug 2019 0:03:34 GMT with name E:\CSE220\lab\lab 6\EclipseCompiler.txt
+15 Aug 2019 0:56:10 GMT: diagnostics = javax.tools.DiagnosticCollector@a75ce9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1696f23
+fileObjects = [E:\CSE220\lab\lab 6\ListStack.java, E:\CSE220\lab\lab 6\ArrayStack.java, E:\CSE220\lab\lab 6\Tester.java, E:\CSE220\lab\lab 6\Queue.java, E:\CSE220\lab\lab 6\StaticQueueinjava.java]
+15 Aug 2019 0:56:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b7d9fa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\lab 6;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+15 Aug 2019 0:56:11 GMT: Compiler call returned
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@192cdf4
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 1 ColNo = 35 Msg = 'Stack cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1959723
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ArrayStack.java LineNo = 1 ColNo = 36 Msg = 'Stack cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@950f88
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 28 ColNo = 39 Msg = 'StackOverflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bfcd6e
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ArrayStack.java LineNo = 27 ColNo = 39 Msg = 'StackOverflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16eb680
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 3 ColNo = 5 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@af0c41
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 62 ColNo = 33 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52ae53
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 46 ColNo = 32 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f4c1ca
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 8 ColNo = 9 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@90a5e2
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 29 ColNo = 9 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37375
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 29 ColNo = 26 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1847110
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 32 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1981abb
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 32 ColNo = 21 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5c0cdf
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 33 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17f5c3a
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 38 ColNo = 26 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@157a5f4
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 39 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3b2a27
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 49 ColNo = 24 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7be08b
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 53 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13ef9f2
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 53 ColNo = 22 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fe94a4
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 54 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69eb2e
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 55 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1973410
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 65 ColNo = 24 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@114a4b9
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 69 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@864dcb
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 69 ColNo = 22 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@139f92e
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 80 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f6742d
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 80 ColNo = 20 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1513846
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 91 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@171c6f2
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 91 ColNo = 20 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13ba53b
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 102 ColNo = 13 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@152e32d
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ListStack.java LineNo = 102 ColNo = 20 Msg = 'Node cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1537289
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ArrayStack.java LineNo = 60 ColNo = 33 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@487a87
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ArrayStack.java LineNo = 40 ColNo = 32 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ee06c8
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ArrayStack.java LineNo = 30 ColNo = 23 Msg = 'StackOverflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@65c3f3
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ArrayStack.java LineNo = 44 ColNo = 23 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fc23cc
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\ArrayStack.java LineNo = 63 ColNo = 23 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bbeb56
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 19 ColNo = 5 Msg = 'Stack cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13f78ef
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 26 ColNo = 13 Msg = 'StackOverflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1875fe0
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 38 ColNo = 12 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@36e09f
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 43 ColNo = 12 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@614e14
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 48 ColNo = 12 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57b4b7
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 59 ColNo = 12 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e28882
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 65 ColNo = 12 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c3a039
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 70 ColNo = 12 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ca5f9b
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 75 ColNo = 12 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@159a279
+15 Aug 2019 0:56:11 GMT:  Kind = ERROR
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\Tester.java LineNo = 80 ColNo = 12 Msg = 'StackUnderflowException cannot be resolved to a type'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fa9308
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 10 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1273686
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 13 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1598bbe
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 14 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a5ae86
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 15 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16d0ca9
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 16 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a69f84
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 19 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47edf5
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 22 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@24b3e5
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 25 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@171f84c
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 27 ColNo = 3 Msg = 'The static method queueDequeue() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@721199
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 28 ColNo = 3 Msg = 'The static method queueDequeue() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ed7be7
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 32 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@494aa4
+15 Aug 2019 0:56:11 GMT:  Kind = WARNING
+15 Aug 2019 0:56:11 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 35 ColNo = 3 Msg = 'The static method queueFront() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: diagnostics = javax.tools.DiagnosticCollector@1d0a570
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b2966c
+fileObjects = [E:\CSE220\lab\lab 6\Queue.java, E:\CSE220\lab\lab 6\StaticQueueinjava.java]
+15 Aug 2019 0:56:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@155127' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\lab 6;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+15 Aug 2019 0:56:48 GMT: Compiler call returned
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b286ca
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 10 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@80808b
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 13 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@198614
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 14 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1edd267
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 15 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1478546
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 16 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@153d9fd
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 19 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@156c425
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 22 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f47c2
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 25 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13980bc
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 27 ColNo = 3 Msg = 'The static method queueDequeue() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ac3597
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 28 ColNo = 3 Msg = 'The static method queueDequeue() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d6b78b
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 32 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 0:56:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@101a964
+15 Aug 2019 0:56:48 GMT:  Kind = WARNING
+15 Aug 2019 0:56:48 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 35 ColNo = 3 Msg = 'The static method queueFront() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:13 GMT: diagnostics = javax.tools.DiagnosticCollector@34f4b1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f50edc
+fileObjects = [E:\CSE220\lab\lab 6\StaticQueueinjava.java, E:\CSE220\lab\lab 6\Queue.java]
+15 Aug 2019 1:21:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@782a71' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\lab 6;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+15 Aug 2019 1:21:14 GMT: Compiler call returned
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a05b0d
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 10 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9f2337
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 13 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c2182c
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 14 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1822baf
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 15 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d666e1
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 16 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d378b7
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 19 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d01079
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 22 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d8f1f
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 25 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@601755
+15 Aug 2019 1:21:14 GMT:  Kind = ERROR
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 33 ColNo = 10 Msg = 'Return type for the method is missing'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@171c36e
+15 Aug 2019 1:21:14 GMT:  Kind = ERROR
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 33 ColNo = 10 Msg = 'Return type for the method is missing'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13e4a61
+15 Aug 2019 1:21:14 GMT:  Kind = ERROR
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 27 ColNo = 5 Msg = 'The method queueDequeue() is undefined for the type Queue'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b9692e
+15 Aug 2019 1:21:14 GMT:  Kind = ERROR
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 28 ColNo = 5 Msg = 'The method queueDequeue() is undefined for the type Queue'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17117b3
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 32 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@80d740
+15 Aug 2019 1:21:14 GMT:  Kind = WARNING
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 35 ColNo = 3 Msg = 'The static method queueFront() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@116f233
+15 Aug 2019 1:21:14 GMT:  Kind = ERROR
+15 Aug 2019 1:21:14 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 56 ColNo = 10 Msg = 'p cannot be resolved to a variable'
+15 Aug 2019 1:21:26 GMT: diagnostics = javax.tools.DiagnosticCollector@f70e2e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1154fb4
+fileObjects = [E:\CSE220\lab\lab 6\StaticQueueinjava.java, E:\CSE220\lab\lab 6\Queue.java]
+15 Aug 2019 1:21:26 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1885879' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\lab 6;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+15 Aug 2019 1:21:26 GMT: Compiler call returned
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f2e8d2
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 10 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e83bf1
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 13 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fbdc39
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 14 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f97aa2
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 15 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d3a6b7
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 16 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7218f
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 19 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f30a2
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 22 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7d6929
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 25 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d870f
+15 Aug 2019 1:21:26 GMT:  Kind = ERROR
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 33 ColNo = 9 Msg = 'Return type for the method is missing'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d7d39a
+15 Aug 2019 1:21:26 GMT:  Kind = ERROR
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 33 ColNo = 9 Msg = 'Return type for the method is missing'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e7762
+15 Aug 2019 1:21:26 GMT:  Kind = ERROR
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 27 ColNo = 5 Msg = 'The method queueDequeue() is undefined for the type Queue'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1257c63
+15 Aug 2019 1:21:26 GMT:  Kind = ERROR
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 28 ColNo = 5 Msg = 'The method queueDequeue() is undefined for the type Queue'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1deb377
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 32 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d8f5d5
+15 Aug 2019 1:21:26 GMT:  Kind = WARNING
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 35 ColNo = 3 Msg = 'The static method queueFront() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:21:26 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ae604b
+15 Aug 2019 1:21:26 GMT:  Kind = ERROR
+15 Aug 2019 1:21:26 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 56 ColNo = 10 Msg = 'p cannot be resolved to a variable'
+15 Aug 2019 1:22:50 GMT: diagnostics = javax.tools.DiagnosticCollector@b73054
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@40ed0f
+fileObjects = [E:\CSE220\lab\lab 6\StaticQueueinjava.java, E:\CSE220\lab\lab 6\Queue.java]
+15 Aug 2019 1:22:50 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18e6e22' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\lab 6;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+15 Aug 2019 1:22:50 GMT: Compiler call returned
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@97f844
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 10 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@40c444
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 13 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@156aa47
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 14 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c23277
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 15 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70bb53
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 16 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c25bd
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 19 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a0a8e9
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 22 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c57d80
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 25 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@128fce8
+15 Aug 2019 1:22:50 GMT:  Kind = ERROR
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 33 ColNo = 9 Msg = 'Return type for the method is missing'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b4107d
+15 Aug 2019 1:22:50 GMT:  Kind = ERROR
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 33 ColNo = 9 Msg = 'Return type for the method is missing'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1220022
+15 Aug 2019 1:22:50 GMT:  Kind = ERROR
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 27 ColNo = 5 Msg = 'The method queueDequeue() is undefined for the type Queue'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@604dbb
+15 Aug 2019 1:22:50 GMT:  Kind = ERROR
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 28 ColNo = 5 Msg = 'The method queueDequeue() is undefined for the type Queue'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ef2ae3
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 32 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c2f97b
+15 Aug 2019 1:22:50 GMT:  Kind = WARNING
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 35 ColNo = 3 Msg = 'The static method queueFront() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:22:50 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13ad511
+15 Aug 2019 1:22:50 GMT:  Kind = ERROR
+15 Aug 2019 1:22:50 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 56 ColNo = 11 Msg = 'Syntax error, insert "}" to complete Block'
+15 Aug 2019 1:23:15 GMT: diagnostics = javax.tools.DiagnosticCollector@1efaacc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b0e562
+fileObjects = [E:\CSE220\lab\lab 6\StaticQueueinjava.java, E:\CSE220\lab\lab 6\Queue.java]
+15 Aug 2019 1:23:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fdb940' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, E:\CSE220\lab\lab 6;C:\Users\user\Downloads\drjava-beta-20160913-225446.exe]
+15 Aug 2019 1:23:15 GMT: Compiler call returned
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a4de66
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 10 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@192215d
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 13 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fea0b
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 14 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e7d3ee
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 15 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@183677a
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 16 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1473d9e
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 19 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@41d0cf
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 22 ColNo = 3 Msg = 'The static method queueEnqueue(int) from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f004a
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 25 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@970e8a
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 32 ColNo = 3 Msg = 'The static method queueDisplay() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@261cb
+15 Aug 2019 1:23:15 GMT:  Kind = WARNING
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\StaticQueueinjava.java LineNo = 35 ColNo = 3 Msg = 'The static method queueFront() from the type Queue should be accessed in a static way'
+15 Aug 2019 1:23:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@95006c
+15 Aug 2019 1:23:15 GMT:  Kind = ERROR
+15 Aug 2019 1:23:15 GMT: Name = E:\CSE220\lab\lab 6\Queue.java LineNo = 56 ColNo = 11 Msg = 'Syntax error, insert "}" to complete Block'
+15 Aug 2019 2:01:15 GMT: Log 'EclipseCompiler.txt' opened: 15 Aug 2019 2:01:15 GMT with name E:\CSE220\lab\lab 6\EclipseCompiler.txt
+15 Aug 2019 2:06:38 GMT: Log 'EclipseCompiler.txt' opened: 15 Aug 2019 2:06:38 GMT with name E:\CSE220\lab\lab 6\EclipseCompiler.txt
